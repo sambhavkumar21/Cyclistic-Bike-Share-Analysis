@@ -57,6 +57,10 @@ Tableau was used to create visual dashboards and charts showing:
 -Average Trip Duration:Casual Riders v/s Members
 -Total Weekly Rides by User Type
 -Ride Volume Trends By Day
+![Tableau Dashboard](https://github.com/sambhavkumar21/Cyclistic-Bike-Share-Analysis/blob/93b568a8bb76ab00894de2a08472aa0660329d23/Tableau%20Dashboard.png)
+
+##Tableau Link
+https://public.tableau.com/views/CyclisticBike-ShareAnalysisMembervsCasualRiderBehaviour/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Findings
 
